@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import imgAsset from '../imgs/asset1.jpeg';
 import Navbar from './Navbar';
 import { BackgroundGradientAnimation } from './ui/background-gradient-animation';
-import { TextGenerateEffect } from './ui/text-generate-effect';
+
 
 
 const Unicorns = () => {

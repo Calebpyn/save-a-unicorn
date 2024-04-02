@@ -1,6 +1,5 @@
 import { HashRouter, Route, Routes } from "react-router-dom"
 import LandingPage from "./components/LandingPage"
-import { BackgroundGradientAnimation } from "./components/ui/background-gradient-animation"
 import Unicorns from "./components/Unicorns"
 
 

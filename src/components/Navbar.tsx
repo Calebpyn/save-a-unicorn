@@ -2,9 +2,6 @@ import { useEffect, useState } from 'react';
 import { GiUnicorn } from "react-icons/gi";
 import { RiMenu5Fill } from "react-icons/ri";
 import { IoCloseOutline } from "react-icons/io5";
-import { useNavigate } from 'react-router-dom';
-
-
 
 const Navbar = () => {
 
